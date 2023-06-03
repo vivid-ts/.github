@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./vivid.svg" />
+  <img src="vivid.svg" />
 
   <br />
 
